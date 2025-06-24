@@ -1,3 +1,4 @@
 # khushi-demo
-this is my first git hub repository
-author-khushi saini
+This is my first git hub repository.
+<br>
+Author-Khushi Saini
